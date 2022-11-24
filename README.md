@@ -13,3 +13,4 @@
 Скрипт SpawnManager затем использует эти комбинации в ходе игры. Cue Bunches - все возможные, Current Cue - выполняемая инструкция в данный момент.
 
 ![](https://github.com/IsaevPVL/Endless_Runner/blob/main/Screenshot_20221124_124342.png)
+
